@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "A high performance laptop with 16GB RAM and 512GB SSD."
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "description": "A latest model smartphone with a stunning display and powerful camera."
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "description": "Noise-cancelling over-ear headphones with long battery life."
+    },
+    {
+        "id": 4,
+        "name": "Smartwatch",
+        "description": "A smartwatch with various health tracking features and notifications."
+    },
+    {
+        "id": 5,
+        "name": "Tablet",
+        "description": "A lightweight tablet perfect for reading, browsing, and entertainment."
+    }
+]
