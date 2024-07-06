@@ -1,7 +1,7 @@
 ervices:
   # A Docker web service
   - type: web
-    name: fastapi-example
+    name: fast-api-test
     runtime: python
     plan: free
     autoDeploy: false
